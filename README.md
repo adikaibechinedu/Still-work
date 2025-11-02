@@ -10,6 +10,6 @@ This webpage contains my progress with html and how much i can do
 
 This webpage says more than just work, it shows accountability and the zeal to go more futher
 
-## Authore 
+## Author
 
 Adikaibe Chinedu
